@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "categories": "desktop",
+    "menu": [
+      {
+        "path": "/",
+        "name": "Desktop Offer"
+      },
+      {
+        "path": "/",
+        "name": "Star Pc"
+      },
+      {
+        "path": "/",
+        "name": "Gaming Pc"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "categories": "laptop",
+    "menu": [
+      {
+        "path": "/",
+        "name": "All Laptop"
+      },
+      {
+        "path": "/",
+        "name": "Gaming Laptop"
+      },
+      {
+        "path": "/",
+        "name": "Premium Ultrabook"
+      }
+    ]
+  }
+]
