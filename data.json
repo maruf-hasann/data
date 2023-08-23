@@ -1,38 +1,74 @@
 [
   {
     "id": 1,
-    "categories": "desktop",
-    "menu": [
-      {
-        "path": "/",
-        "name": "Desktop Offer"
-      },
-      {
-        "path": "/",
-        "name": "Star Pc"
-      },
-      {
-        "path": "/",
-        "name": "Gaming Pc"
-      }
-    ]
+    "image": "https://www.startech.com.bd/image/cache/catalog/offer-page/august-laptop-offer-400x400.webp",
+    "title": "Star Tech Laptop Offer",
+    "description": "Buy Any Laptop and Get a Wireless Mouse Free!",
+    "time": "06 Aug 2023 - 31 Aug 2023 ",
+    "status": "All Branch"
   },
   {
     "id": 2,
-    "categories": "laptop",
-    "menu": [
-      {
-        "path": "/",
-        "name": "All Laptop"
-      },
-      {
-        "path": "/",
-        "name": "Gaming Laptop"
-      },
-      {
-        "path": "/",
-        "name": "Premium Ultrabook"
-      }
-    ]
+    "image": "https://www.startech.com.bd/image/cache/catalog/home/banner/desktop-deal/desktop-deal-live-now-popup-400x400.webp",
+    "title": "Star Tech Desktop Deal",
+    "description": "Buy Desktop & Enjoy Exciting Discount!",
+    "time": " 07 Aug 2023 - 25 Aug 2023",
+    "status": "All Outlet"
+  },
+  {
+    "id": 3,
+    "image": "https://www.startech.com.bd/image/cache/catalog/offer-page/200tk-bkash-payment-discount-400x400.webp",
+    "title": "10% Discount on Smart Watch & Earbuds",
+    "description": "Buy Smart Watch & Earbuds and Get 10% Discount",
+    "time": "15 Aug 2023 - 31 Aug 2023",
+    "status": "Online"
+  },
+  {
+    "id": 4,
+    "image": "https://www.startech.com.bd/image/cache/catalog/offer-page/gigbyte-month-live-now-2-400x400.webp",
+    "title": "Gigabyte Month",
+    "description": "Buy any Gigabyte Product & Get Exciting Gifts!",
+    "time": " 04 Aug 2023 - 31 Aug 2023",
+    "status": "All Outlet"
+  },
+  {
+    "id": 5,
+    "image": "https://www.startech.com.bd/image/cache/catalog/offer-page/tv-offer-august-2023-400x400.webp",
+    "title": "Star Tech Television Offer",
+    "description": "Buy Television and Get a Sewing Machine absolutely Free!",
+    "time": " 22 Aug 2023 - 30 Sep 2023",
+    "status": "All Branch"
+  },
+  {
+    "id": 6,
+    "image": "https://www.startech.com.bd/image/cache/catalog/offer-page/tp-link-thermo-bottle-offer-400x400.webp",
+    "title": "TP-Link Router Offer",
+    "description": "Buy TP-Link Router & Get a Thermal Water Bottle Absolutely Free!!",
+    "time": " 06 Aug 2023 - 20 Sep 2023",
+    "status": "All Outlet"
+  },
+  {
+    "id": 7,
+    "image": "https://www.startech.com.bd/image/cache/catalog/offer-page/google-pixel-offer-400x400.webp",
+    "title": "Google Pixel Phone Offer",
+    "description": "Buy Google Pixel & Get 3000 Tk. Off",
+    "time": "11 Aug 2023 - 31 Aug 2023",
+    "status": "Online"
+  },
+  {
+    "id": 8,
+    "image": "https://www.startech.com.bd/image/cache/catalog/hp-printer-new-1-offer-400x400.webp",
+    "title": "HP Printer Offer",
+    "description": "Buy HP 4175 Printer & Free Prizebond!",
+    "time": "13 Aug 2023 - 31 Aug 2023",
+    "status": "Selected Outlet"
+  },
+  {
+    "id": 9,
+    "image": "https://www.startech.com.bd/image/cache/catalog/Offer%20page%20/Router-Offer-400x400.webp",
+    "title": "ASUS Router Offer",
+    "description": "Buy ASUS Router & Get a Umbrella Free",
+    "time": "21 Aug 2023 - 30 Sep 2023",
+    "status": "All Branch"
   }
 ]
